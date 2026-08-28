@@ -1,65 +1,44 @@
 ﻿{
   "projects": [
     {
-      "id": "extraction-data",
-      "tech": "JAVA",
-      "stack": ["Java", "Regex", "POI"],
-      "demoUrl": "#",
-      "codeUrl": "#",
-      "translations": {
-        "es": {
-          "title": "EXTRACCIÓN DE DATOS",
-          "description": "Investigación y desarrollo de soluciones para extraer información de documentos en diversos formatos, aplicando técnicas de programación en Java.",
-          "source": "Privada",
-          "result": "+40% eficiencia"
-        },
-        "en": {
-          "title": "DATA EXTRACTION",
-          "description": "Research and development of solutions to extract information from documents in various formats, applying Java programming techniques.",
-          "source": "Private",
-          "result": "+40% efficiency"
-        }
-      }
-    },
-    {
-      "id": "ocr-tesseract",
-      "tech": "JAVA",
-      "stack": ["Java", "Tesseract OCR", "Image Processing"],
-      "demoUrl": "#",
-      "codeUrl": "#",
-      "translations": {
-        "es": {
-          "title": "OCR TESSERACT",
-          "description": "Implementación de un sistema de digitalización de documentos mediante OCR, integrando Tesseract en entornos Java.",
-          "source": "Privada",
-          "result": "+25% conversión"
-        },
-        "en": {
-          "title": "OCR TESSERACT",
-          "description": "Implementation of a document digitization system using OCR, integrating Tesseract in Java environments.",
-          "source": "Private",
-          "result": "+25% conversion"
-        }
-      }
-    },
-    {
-      "id": "data-analyzer",
+      "id": "vlan-automation",
       "tech": "PYTHON",
-      "stack": ["Python", "Pandas", "D3.js", "FastAPI"],
+      "stack": ["Python", "Paramiko", "Tkinter", "GNS3"],
       "demoUrl": "#",
-      "codeUrl": "#",
+      "codeUrl": "https://github.com/IngCarlosRubiano/vlan_automatizacion",
       "translations": {
         "es": {
-          "title": "ANALIZADOR DE DATOS",
-          "description": "Herramienta de análisis de datos para procesamiento de grandes volúmenes de información con visualizaciones interactivas y reportes automatizados.",
-          "source": "Uso interno",
-          "result": "Ahorro de 20h/semana"
+          "title": "AUTOMATIZADOR DE VLANs",
+          "description": "Aplicación de escritorio en Python que automatiza la generación y el despliegue de configuraciones de VLAN en equipos Cisco, validada en entornos de red simulados con GNS3. Desarrollado como proyecto universitario para la asignatura de Planificación y Diseño de Redes.",
+          "source": "Proyecto Universitario",
+          "result": "100% automatizado"
         },
         "en": {
-          "title": "DATA ANALYZER",
-          "description": "Data analysis tool for processing large volumes of information with interactive visualizations and automated reports.",
-          "source": "Internal use",
-          "result": "20h/week savings"
+          "title": "VLAN AUTOMATION",
+          "description": "Desktop application in Python that automates the generation and deployment of VLAN configurations on Cisco devices, validated in simulated network environments with GNS3. Developed as a university project for the Network Planning and Design course.",
+          "source": "University Project",
+          "result": "100% automated"
+        }
+      }
+    },
+    {
+      "id": "sankey-automation",
+      "tech": "PYTHON",
+      "stack": ["Python", "Streamlit", "Plotly", "SQLite", "Pandas"],
+      "demoUrl": "#",
+      "codeUrl": "https://github.com/IngCarlosRubiano/sankey-automatizacion",
+      "translations": {
+        "es": {
+          "title": "SISTEMA ENERGÉTICO COLOMBIANO",
+          "description": "Aplicación web interactiva y pipeline de datos para extraer, almacenar, procesar y visualizar la matriz de flujo energético de Colombia mediante diagramas Sankey trazables, con ingesta desde fuentes oficiales (UPME, XM, ANH). Desarrollado como proyecto universitario.",
+          "source": "Proyecto Universitario",
+          "result": "Visualización interactiva"
+        },
+        "en": {
+          "title": "COLOMBIAN ENERGY SYSTEM",
+          "description": "Interactive web application and data pipeline to extract, store, process, and visualize Colombia's energy flow matrix through traceable Sankey diagrams, with data ingestion from official sources (UPME, XM, ANH). Developed as a university project.",
+          "source": "University Project",
+          "result": "Interactive visualization"
         }
       }
     }

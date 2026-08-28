@@ -23,22 +23,22 @@
             'nav.experience': 'EXPERIENCIA',
             'nav.contact': 'CONTACTO',
             'header.subtitle': 'INGENIERO DE SOFTWARE | DESARROLLADOR BACKEND',
-            'header.description': 'Apasionado por la tecnología y la resolución de problemas a través del desarrollo de software. Me especializo en backend y administración de entornos Linux, con un enfoque en crear soluciones eficientes y escalables.',
+            'header.description': 'Ingeniero en Telemática con enfoque en desarrollo backend. Transformo requerimientos complejos en soluciones robustas usando Java (Spring Boot), Python y TypeScript, con una sólida base en infraestructura Linux.',
             
             // About
             'about.title': 'SOBRE MÍ',
-            'about.text1': 'Soy estudiante de los últimos semestres de Ingeniería Telemática y tecnólogo en Sistematización de Datos, con experiencia en el diseño, desarrollo e implementación de aplicaciones informáticas.',
+            'about.text1': 'Ingeniero en Telemática y Tecnólogo en Sistematización de Datos, con enfoque en desarrollo backend y arquitectura de sistemas escalables. Me especializo en transformar requerimientos complejos en soluciones técnicas robustas utilizando Java (Spring Boot), Python y TypeScript, con una sólida base en administración de servidores Linux.',
             'about.highlights': 'Me destaco por:',
-            'about.item1': 'Habilidades en programación backend y manejo de bases de datos.',
-            'about.item2': 'Experiencia en administración de entornos Linux y validación de plataformas empresariales.',
-            'about.item3': 'Una mentalidad analítica y autodidacta, siempre en búsqueda de aprender y aplicar nuevas tecnologías.',
-            'about.item4': 'Capacidad de trabajo en equipo y liderazgo en proyectos interdisciplinarios.',
+            'about.item1': 'Desarrollo backend con Java (Spring Boot), Python y TypeScript.',
+            'about.item2': 'Administración de servidores Linux y optimización de plataformas empresariales.',
+            'about.item3': 'Integración de APIs RESTful, automatización de flujos de trabajo y gestión de bases de datos relacionales.',
+            'about.item4': 'Mentalidad analítica, aprendizaje continuo y enfoque en la seguridad y estabilidad de los sistemas.',
             
             // Projects
             'projects.title': 'PROYECTOS',
             'projects.demo': 'VER_DEMO',
             'projects.code': 'VER_CÓDIGO',
-'projects.fallback_title1': 'EXTRACCIÓN DE DATOS',
+            'projects.fallback_title1': 'EXTRACCIÓN DE DATOS',
             'projects.fallback_desc1': 'Investigación y desarrollo de soluciones para extraer información de documentos en diversos formatos, aplicando técnicas de programación en Java.',
             'projects.fallback_tech1': 'JAVA',
             'projects.fallback_source1': 'Privada',
@@ -61,15 +61,15 @@
             // Experience
             'experience.title': 'EXPERIENCIA PROFESIONAL',
 
-            'experience.job1_title': 'DESARROLLADOR SOFTWARE JUNIOR',
+            'experience.job1_title': 'INGENIERO DE SOFTWARE',
             'experience.job1_company': 'Bridgetech | Alfresco',
-            'experience.job1_desc': 'Participé en proyectos de investigación, documentación y pruebas de entornos Alfresco en CentOS 8, así como en soluciones de extracción de información en Java.',
-            'experience.job2_title': 'MONITOR ACADÉMICO',
+            'experience.job1_desc': 'Desarrollé e implementé módulos en Java (Spring Boot) con Tesseract OCR para extracción automatizada de información. Configuré y optimicé entornos Alfresco ECM sobre Linux CentOS 8, y colaboré en la migración de flujos de trabajo con integración de APIs RESTful de terceros.',
+            'experience.job2_title': 'ASISTENTE TÉCNICO DE SISTEMAS',
             'experience.job2_company': 'Universidad Distrital Francisco José de Caldas',
-            'experience.job2_desc': 'Brindé asistencia técnica en laboratorios de informática, liderando la migración y actualización de la página web institucional.',
-            'experience.job3_title': 'ASISTENTE BACKOFFICE',
+            'experience.job2_desc': 'Ejecuté pruebas de concepto (PoC) para implementación de telefonía IP con Asterisk sobre Linux. Realicé mantenimiento preventivo de servidores y resolución de incidencias en redes IPv4/IPv6. Colaboré en la migración de la plataforma web institucional con HTML5 y JavaScript.',
+            'experience.job3_title': 'ANALISTA DE DATOS Y AUTOMATIZACIÓN',
             'experience.job3_company': 'Atento',
-            'experience.job3_desc': 'Gestión de información, análisis de datos y apoyo a distintas áreas de la organización mediante el manejo avanzado de Excel y macros.',
+            'experience.job3_desc': 'Desarrollé scripts y macros en VBA (Excel) para automatizar limpieza y consolidación de grandes volúmenes de datos. Normalicé y administré bases de datos operativas (Microsoft Access, AS/400) e implementé dashboards para seguimiento de KPIs.',
 
             
             // Contact
@@ -110,22 +110,22 @@
             'nav.experience': 'EXPERIENCE',
             'nav.contact': 'CONTACT',
             'header.subtitle': 'SOFTWARE ENGINEER | BACKEND DEVELOPER',
-            'header.description': 'Passionate about technology and problem-solving through software development. I specialize in backend and Linux environment administration, focusing on creating efficient and scalable solutions.',
+            'header.description': 'Telematics Engineer focused on backend development. I transform complex requirements into robust solutions using Java (Spring Boot), Python, and TypeScript, with a solid foundation in Linux infrastructure.',
             
             // About
             'about.title': 'ABOUT ME',
-            'about.text1': 'I am a student in the final semesters of Telematics Engineering and a Data Processing Technologist, with experience in the design, development, and implementation of computer applications.',
+            'about.text1': 'Telematics Engineer and Data Systems Technologist, with a focus on backend development and scalable systems architecture. I specialize in transforming complex requirements into robust technical solutions using Java (Spring Boot), Python, and TypeScript, with a solid foundation in Linux server administration.',
             'about.highlights': 'I stand out for:',
             'about.item1': 'Backend programming skills and database management.',
-            'about.item2': 'Experience in Linux environment administration and enterprise platform validation.',
-            'about.item3': 'An analytical and self-taught mindset, always seeking to learn and apply new technologies.',
-            'about.item4': 'Ability to work in teams and leadership in interdisciplinary projects.',
+            'about.item2': 'Linux Server Administration and Enterprise Platform Optimization.',
+            'about.item3': 'RESTful API integration, workflow automation, and relational database management.',
+            'about.item4': 'An analytical mindset, continuous learning, and a focus on system security and stability.',
             
             // Projects
             'projects.title': 'PROJECTS',
             'projects.demo': 'VIEW_DEMO',
             'projects.code': 'VIEW_CODE',
-'projects.fallback_title1': 'DATA EXTRACTION',
+            'projects.fallback_title1': 'DATA EXTRACTION',
             'projects.fallback_desc1': 'Research and development of solutions to extract information from documents in various formats, applying Java programming techniques.',
             'projects.fallback_tech1': 'JAVA',
             'projects.fallback_source1': 'Private',
@@ -148,15 +148,15 @@
             // Experience
             'experience.title': 'PROFESSIONAL EXPERIENCE',
 
-            'experience.job1_title': 'SOFTWARE DEVELOPER JUNIOR',
+            'experience.job1_title': 'SOFTWARE ENGINEER',
             'experience.job1_company': 'Bridgetech | Alfresco',
-            'experience.job1_desc': 'I participated in research projects, documentation, and testing of Alfresco environments on CentOS 8, as well as in information extraction solutions in Java.',
-            'experience.job2_title': 'ACADEMIC TUTOR',
+            'experience.job1_desc': 'I developed and implemented Java (Spring Boot) modules using Tesseract OCR for automated data extraction. I configured and optimized Alfresco ECM environments on Linux CentOS 8, and collaborated on the migration of workflows involving the integration of third-party RESTful APIs.',
+            'experience.job2_title': 'SYSTEMS TECHNICAL ASSISTANT',
             'experience.job2_company': 'Universidad Distrital Francisco José de Caldas',
-            'experience.job2_desc': 'I provided technical assistance in computer labs, leading the migration and update of the institutional website.',
-            'experience.job3_title': 'BACKOFFICE ASSISTANT',
+            'experience.job2_desc': 'I conducted proof-of-concept (PoC) tests for the implementation of IP telephony using Asterisk on Linux. I performed preventive maintenance on servers and resolved issues on IPv4/IPv6 networks. I helped migrate the institutional web platform to HTML5 and JavaScript.',
+            'experience.job3_title': 'DATA AND AUTOMATION ANALYST',
             'experience.job3_company': 'Atento',
-            'experience.job3_desc': 'Information management, data analysis, and support to different areas of the organization through advanced Excel and macro handling.',
+            'experience.job3_desc': 'I developed VBA (Excel) scripts and macros to automate the cleaning and consolidation of large volumes of data. I standardized and managed operational databases (Microsoft Access, AS/400) and implemented dashboards for tracking KPIs.',
 
             
             // Contact
